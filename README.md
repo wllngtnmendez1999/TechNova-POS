@@ -310,6 +310,19 @@ Las evidencias técnicas se organizan a partir de tres herramientas principales:
 Estas evidencias permiten mantener continuidad entre las diferentes etapas del proyecto.
 
 ---
+## Implementación previa del sistema
+
+Como parte de los antecedentes del proyecto TechNova POS, se incorporó una aplicación desarrollada anteriormente en la asignatura Desarrollo de Proyecto con Software Libre.
+
+Esta aplicación fue construida utilizando Ubuntu Server, Apache, PHP, Laravel, MariaDB y Bootstrap, e implementa un módulo CRUD para la gestión de productos tecnológicos.
+
+El código fuente se encuentra organizado en la carpeta `implementacion-previa/technova-laravel/`.
+
+Esta implementación sirve como base práctica para los requisitos de gestión de productos y control de inventario. Sin embargo, su adaptación al sistema TechNova POS, así como los módulos de clientes, ventas e historial de ventas, forman parte del trabajo pendiente.
+
+### Repositorios relacionados
+
+- [TechNova-POS – Ingeniería de Software I](https://github.com/wlngtnmendez1999/TechNova-POS)
 
 <div align="center">
 
