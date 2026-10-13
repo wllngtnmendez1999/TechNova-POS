@@ -1,4 +1,23 @@
 
+## [Sin publicar] – Integración de implementación previa
+
+### Incorporado
+- Código fuente del proyecto TechNova desarrollado anteriormente con Laravel y PHP.
+- Estructura del módulo CRUD para gestionar productos tecnológicos.
+- Carpeta `implementacion-previa/technova-laravel/` para conservar el desarrollo original.
+- Documento `docs/arquitectura/integracion-laravel.md`, que explica la relación entre el desarrollo previo y TechNova POS.
+
+### Documentado
+- Relación del módulo de productos con el requisito funcional RF-01.
+- Relación parcial del control de existencias con el requisito RF-02.
+- Uso de Laravel y su arquitectura MVC, junto con MariaDB, Apache y Ubuntu Server.
+- Reutilización del código existente como punto de partida para futuras ampliaciones.
+
+### Pendiente
+- Validar el funcionamiento del módulo dentro del entorno de TechNova POS.
+- Completar la gestión de inventario.
+- Desarrollar los módulos de clientes, ventas e historial de ventas.
+- Realizar pruebas de integración y funcionamiento.
 # 📋 Registro de cambios – TechNova POS
 
 ## Versión documental 0.1.0
